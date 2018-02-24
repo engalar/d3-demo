@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server --port=4200 --hot --progress --devtool eval"
+  },
+  "dependencies": {
+    "d3": "^4.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
